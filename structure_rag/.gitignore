@@ -1,0 +1,7 @@
+# Input PDFs and parse/GraphRAG output (do not track)
+input/
+output/
+
+# Python
+__pycache__/
+*.pyc
